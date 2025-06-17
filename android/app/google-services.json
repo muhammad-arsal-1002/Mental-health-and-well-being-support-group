@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154841327963",
+    "project_id": "m-arsal",
+    "storage_bucket": "m-arsal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154841327963:android:cb8716d9a359150c67127e",
+        "android_client_info": {
+          "package_name": "com.example.marsal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDufWf09Johty1A0MjAQUyc4AhY1p_ISHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
