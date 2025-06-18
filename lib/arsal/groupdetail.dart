@@ -250,7 +250,7 @@ class _GroupDetailState extends State<GroupDetail> {
                 ),
                 onPressed: _onJoinGroupPressed,
                 child: Text(
-                  _isJoined ? 'Joined' : 'Join Group',
+                  _isJoined ? 'Joined' : 'Join this Group',
                   style: _kButtonTextStyle, // White text
                 ),
               ),
